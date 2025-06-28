@@ -20,7 +20,7 @@ This is a Python-based lane detection project that uses OpenCV to detect road la
 
 - Python 3
 - OpenCV (cv2)
-
+- video directory - https://drive.google.com/drive/u/0/folders/1ikOU8AfycYt-REAUmfb2C0U1Z1unc2Mz
 ---
 
 ## 📝 How It Works
